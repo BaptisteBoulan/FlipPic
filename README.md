@@ -9,6 +9,7 @@ RenderZe: OpenGL FLIP Fluid Simulation
 
 ---
 
+```
 src/
 ├── main.cpp          # Point d'entrée du programme
 ├── shader.cpp/h      # Gestion des shaders OpenGL
@@ -16,6 +17,7 @@ src/
 ├── grid.h            # Utilitaires pour la grille
 ├── particle.h        # Système de particules
 └── config.h          # Configuration globale
+```
 
 ---
 
